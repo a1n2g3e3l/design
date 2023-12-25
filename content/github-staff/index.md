@@ -1,6 +1,5 @@
 ---
-title: GitHub staff
-description: Internal documentation for GitHub staff.
+title: Добро пожаловать в наш магазин: Мы рады вас видеть GitHub staff.
 ---
 
 <ChildPages of="GitHub staff" />
